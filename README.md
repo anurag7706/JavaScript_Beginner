@@ -1,5 +1,5 @@
 # JavaScript_Beginner
-Module: Javascript Variables and Operators
+## Module: Javascript Variables and Operators
 
 
 Lesson 1: Declaring and Initializing Variables
@@ -138,7 +138,7 @@ Lesson 7: Ternary Operators
 
 
 
-Module: Javascript Arrays and Objects
+## Module: Javascript Arrays and Objects
 
 
 Lesson 1: Introduction to Arrays
@@ -184,7 +184,7 @@ Lesson 3: JavaScript Objects
 
 
 
-Module: Javascript Loops and Functions
+## Module: Javascript Loops and Functions
 
 
 Lesson 1: JavaScript Functions
